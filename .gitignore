@@ -3,3 +3,4 @@ skript/2004-04-15-fluss-ford-fulkerson/
 *.aux
 *.log
 *.synctex.gz
+_site/
